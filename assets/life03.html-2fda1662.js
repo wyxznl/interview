@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-88c46707.js";const r={},s=e("h1",{id:"life-03",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#life-03","aria-hidden":"true"},"#"),o(" life 03")],-1),i=[s];function n(_,l){return a(),c("div",null,i)}const f=t(r,[["render",n],["__file","life03.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-07884b4a","path":"/components/life02.html","title":"life 02","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684843999000,"contributors":[{"name":"wangyaxin04","email":"wangyaxin04@meituan.com","commits":1}]},"filePathRelative":"components/life02.md"}');export{e as data};
